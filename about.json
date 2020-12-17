@@ -3,11 +3,7 @@
   "component": false,
   "license_url": "https://github.com/iamcapote/CoreTestTheme/blob/main/LICENSE",
   "about_url": "https://github.com/iamcapote/CoreTestTheme",
-  "authors": null,
-  "theme_version": null,
-  "minimum_discourse_version": null,
-  "maximum_discourse_version": null,
-  "assets": {
+    "assets": {
   },
   "color_schemes": {
     "Neutral": {
@@ -23,7 +19,4 @@
       "love": "fa6c8d"
     },
   },
-  "modifiers": {
-  },
-  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
 }
