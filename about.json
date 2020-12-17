@@ -9,10 +9,10 @@
     "CoreColors": {
       "primary": "#222222",
       "secondary": "008080",
-      "tertiary": "f34cf4",
+      "tertiary": "848584",
       "quaternary": "e45735",
       "header_background": "060084",
-      "header_primary": "333333",
+      "header_primary": "222222",
       "highlight": "ffff4d",
       "danger": "e45735",
       "success": "009900",
