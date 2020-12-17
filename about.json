@@ -11,12 +11,12 @@
       "secondary": "#008080",
       "tertiary": "#008080",
       "quaternary": "#008080",
-      "header_background": "333333",
-      "header_primary": "f3f3f3",
-      "highlight": "ecec70",
-      "danger": "b85e48",
-      "success": "518751",
-      "love": "fa6c8d"
+      "header_background": "#008080",
+      "header_primary": "#008080",
+      "highlight": "#008080",
+      "danger": "#008080",
+      "success": "#008080",
+      "love": "#008080"
     }
   }
 }
