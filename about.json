@@ -6,7 +6,7 @@
     "assets": {
   },
   "color_schemes": {
-    "Neutral": {
+    "CoreColors": {
       "primary": "#008080",
       "secondary": "ffffff",
       "tertiary": "51839b",
