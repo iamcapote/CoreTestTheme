@@ -7,16 +7,16 @@
   },
   "color_schemes": {
     "CoreColors": {
-      "primary": "#008080",
-      "secondary": "#008080",
-      "tertiary": "#008080",
-      "quaternary": "#008080",
-      "header_background": "#008080",
-      "header_primary": "#008080",
-      "highlight": "#008080",
-      "danger": "#008080",
-      "success": "#008080",
-      "love": "#008080"
+      "primary": "#222222",
+      "secondary": "008080",
+      "tertiary": "f34cf4",
+      "quaternary": "e45735",
+      "header_background": "060084",
+      "header_primary": "333333",
+      "highlight": "ffff4d",
+      "danger": "e45735",
+      "success": "009900",
+      "love": "fa6c8d"
     }
   }
 }
