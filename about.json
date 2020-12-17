@@ -8,9 +8,9 @@
   "color_schemes": {
     "CoreColors": {
       "primary": "#008080",
-      "secondary": "ffffff",
-      "tertiary": "51839b",
-      "quaternary": "b85e48",
+      "secondary": "#008080",
+      "tertiary": "#008080",
+      "quaternary": "#008080",
       "header_background": "333333",
       "header_primary": "f3f3f3",
       "highlight": "ecec70",
